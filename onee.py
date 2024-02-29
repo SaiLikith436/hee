@@ -1,4 +1,7 @@
-print("hello world")
-print("hello spt")
-print("hello tumkur")
-print("hello")
+class hello
+{
+  public static void main(String [] args)
+{
+  System.out.println("hello java");
+}
+}
